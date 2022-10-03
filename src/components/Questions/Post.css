@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #27394a;
+    height: 100vh;
+  }
+  .h7
+  {
+      font-size: 0.9rem;
+  }
+  .mr-10{
+      margin-right: 10px;
+  }
+  .name{
+    display: flex;
+    justify-content: space-between;
+}
+.mar{
+    margin-right: 10px;
+}
+.mar2{
+    margin-top: 5px;
+}
