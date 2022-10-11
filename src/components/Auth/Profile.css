@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    height: 100vh;
+  }
+  .h7
+  {
+      font-size: 0.9rem;
+  }
+  .mr-10{
+      margin-right: 10px;
+  }
+  .bg-white{
+      background-color: #fff;
+  }
