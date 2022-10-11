@@ -1,0 +1,58 @@
+
+/* body {
+    margin: 0;
+    padding: 0;
+    background-color: #27394a;
+    height: 100vh;
+  }
+  .text-info {
+      color: #007bff!important;
+  }
+  #login .container #login-row #login-column #login-box {
+    margin-top: 120px;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid #9C9C9C;
+    background-color: #fff;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+    
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+  float: right;
+  }  */
+
+  
+  .divider:after,
+
+.divider:before {
+
+content: "";
+
+flex: 1;
+
+height: 1px;
+
+background: #eee;
+
+}
+
+.h-custom {
+
+height: calc(100% - 73px);
+
+}
+
+@media (max-width: 450px) {
+
+.h-custom {
+
+height: 100%;
+
+}
+
+}
+.col{
+  color: green;
+}
